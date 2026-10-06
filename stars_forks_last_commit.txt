@@ -1,0 +1,59 @@
+Project: aidenlab/straw
+GitHub: https://github.com/aidenlab/straw
+Stars: 70
+Forks: 35
+Last commit (UTC): 2025-04-06 02:23:28
+
+Project: corybrunson/ggalluvial
+GitHub: https://github.com/corybrunson/ggalluvial
+Stars: 524
+Forks: 34
+Last commit (UTC): 2026-02-22 13:12:42
+
+Project: snowleopard/alga
+GitHub: https://github.com/snowleopard/alga
+Stars: 763
+Forks: 74
+Last commit (UTC): 2025-07-13 10:07:51
+
+Project: maximecb/gym-minigrid
+GitHub: https://github.com/Farama-Foundation/Minigrid
+Stars: 2517
+Forks: 651
+Last commit (UTC): 2026-09-10 21:43:25
+
+Project: seung-lab/cloud-volume
+GitHub: https://github.com/seung-lab/cloud-volume
+Stars: 175
+Forks: 54
+Last commit (UTC): 2026-09-28 22:12:01
+
+Project: STVIR/pysot
+GitHub: https://github.com/STVIR/pysot
+Stars: 4603
+Forks: 1110
+Last commit (UTC): 2025-06-22 03:59:22
+
+Project: google-research/torchsde
+GitHub: https://github.com/google-research/torchsde
+Stars: 1727
+Forks: 231
+Last commit (UTC): 2024-12-30 10:52:51
+
+Project: tidymodels/rsample
+GitHub: https://github.com/tidymodels/rsample
+Stars: 343
+Forks: 68
+Last commit (UTC): 2026-09-17 17:57:29
+
+Project: coin-or/Ipopt
+GitHub: https://github.com/coin-or/Ipopt
+Stars: 1789
+Forks: 318
+Last commit (UTC): 2026-08-27 14:02:53
+
+Project: OHDSI/PatientLevelPrediction
+GitHub: https://github.com/OHDSI/PatientLevelPrediction
+Stars: 222
+Forks: 96
+Last commit (UTC): 2026-09-21 11:43:21
