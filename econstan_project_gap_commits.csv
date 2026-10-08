@@ -1,0 +1,532 @@
+before/after,project_wocid,commit_sha1,author,time,commit message
+before,aidenlab_straw,5bc94996e00a5687361474eea3c35a1cec77de96,Muhammad Saad Shamim <sa501428@gmail.com>,1692998204,"Merge pull request #17 from sa501428/update_matrix_ops
+
+allow matrix dumping from c++ to local, upload example of sample testing"
+before,aidenlab_straw,792dd15c5b003b1b37a8f62aca71e542d9fec5dc,Muhammad Saad Shamim <sa501428@gmail.com>,1692998331,"Merge pull request #126 from fredlas/master
+
+optimize out temporary matrix from getRecordsAsMatrix()"
+before,aidenlab_straw,59aa5f86012551a1311a62b8884553c24ed71f17,Muhammad Saad Shamim <sa501428@gmail.com>,1692998551,"Merge pull request #18 from aidenlab/master
+
+pull upstream changes"
+before,aidenlab_straw,909b3cedd5d3756829cd03fcb2caa925a909a090,Muhammad Saad Shamim <sa501428@gmail.com>,1692998753,"Merge pull request #19 from sa501428/merging_code
+
+Merging code"
+before,aidenlab_straw,081534715d2f856495c17f44e15429c60a5b860f,Muhammad Saad Shamim <sa501428@gmail.com>,1692998833,"Merge pull request #127 from sa501428/master
+
+Matrix printing and basic tests"
+before,aidenlab_straw,708227b388ed4b8dd42e6f1c034be6b4d5953739,Jeroen Ooms <jeroenooms@gmail.com>,1706189314,"Use rtools43 libcurl when available
+"
+before,aidenlab_straw,f86e72b771ccdf3c9eacf641bc719a7bc527969d,Tomas Kalibera <tomas.kalibera@gmail.com>,1707400280,"Use libraries from the system (Rtools), refrain from downloading
+pre-compiled ones.  Fixes build for aarch64.
+"
+before,aidenlab_straw,2a1a7415b460ff4cb4751ac611c86aa9465c8533,MahdiSayadSadr <61241675+MahdiSayadSadr@users.noreply.github.com>,1707433202,"Merge pull request #134 from kalibera/windows-linking
+
+Use libraries from the system (Rtools), refrain from downloading."
+before,aidenlab_straw,7de0613b3ae481a72bd60f67ae529f09db9a1414,Muhammad Saad Shamim <sa501428@gmail.com>,1711927845,"fix reassigning memory stream issues
+"
+before,aidenlab_straw,3b2b117338e9c46500bb0ac1469b23c630c1d1b7,Muhammad Saad Shamim <sa501428@gmail.com>,1711927878,"Merge pull request #135 from sa501428/merging_code
+
+fix reassigning memory stream issues"
+after,aidenlab_straw,014d06ce8337aab2b4d7e9da90d2d0d22537d118,Muhammad Saad Shamim <sa501428@gmail.com>,1743867731,"parallelize getting blocks
+"
+after,aidenlab_straw,4f07c93f5977b81d347196fa295736147dac7953,Muhammad Saad Shamim <sa501428@gmail.com>,1743868138,"bug fix
+"
+after,aidenlab_straw,4fdca1e87356c027067db5efe3e39bb18ae5af0e,Muhammad Saad Shamim <sa501428@gmail.com>,1743869573,"make thread pool
+"
+after,aidenlab_straw,6535bbf429e27656f31de2bfb7c3fdef3179a16d,Muhammad Saad Shamim <sa501428@gmail.com>,1743869818,"minor thread num fix
+"
+after,aidenlab_straw,f10442d78ddd0afcf47270cc2855cfc791ae2528,Muhammad Saad Shamim <sa501428@gmail.com>,1743869984,"Merge pull request #138 from sa501428/optimize
+
+Optimize"
+after,aidenlab_straw,19c6a12a81685eeccb0618f23124721961a7e1c5,Muhammad Saad Shamim <sa501428@gmail.com>,1743870089,"Merge pull request #22 from sa501428/optimize
+
+Optimize"
+after,aidenlab_straw,24773ebf461df7260044ec8332f65eca072ef05d,Muhammad Saad Shamim <sa501428@gmail.com>,1743871324,"add intermediate format
+"
+after,aidenlab_straw,35b4c13a0631e551a50659f1126b24ece6a0652f,Muhammad Saad Shamim <sa501428@gmail.com>,1743871507,"bug fix
+"
+after,aidenlab_straw,50b2cf526e17659c7e8b5b309e0bdf0ec889e2c4,Muhammad Saad Shamim <sa501428@gmail.com>,1743871676,"bug fix
+"
+after,aidenlab_straw,ad7648e7baaa41bffbb03d891b590e867117fe77,Muhammad Saad Shamim <sa501428@gmail.com>,1743872142,"bug fixes
+"
+before,coin-or_ipopt,75790e3f17d8956ea06695fedf750799105c7d4f,subgit <support@subgit.com>,1498031428,
+before,coin-or_ipopt,c202492f07f7192487586b06f8e6b8d0c9929c62,Stefan Vigerske <svigerske@gams.com>,1498555035,"update link to ipopt-fortran source
+
+svn-id: 2698 @trunk
+"
+before,coin-or_ipopt,9d2f62ac81860caa9e8b69108c0d41562d20e36a,Stefan Vigerske <svigerske@gams.com>,1498555035,update link to ipopt-fortran source
+before,coin-or_ipopt,efb04025c355605e636d0ccb35a897eef1bdff10,subgit <support@subgit.com>,1498555037,
+before,coin-or_ipopt,996612361975e9164758d837e104cc8ec5079cc6,Stefan Vigerske <svigerske@gams.com>,1498635967,replace unsupported by experimental (nothing is really supported anyway)
+before,coin-or_ipopt,fa0c0cf23011907195539f217dc4a2db1e06bdba,Stefan Vigerske <svigerske@gams.com>,1498635967,"replace unsupported by experimental (nothing is really supported anyway)
+
+svn-id: 2699 @trunk
+"
+before,coin-or_ipopt,d5db15c13565f7ed06c3e98d0e8eb883ef98228c,subgit <support@subgit.com>,1498635969,
+before,coin-or_ipopt,1d247b6b9d156edb3620d5807a160b7092aedd90,Stefan Vigerske <svigerske@gams.com>,1498818044,"free order_ in ma86 interface, see also #283"
+before,coin-or_ipopt,2c707bd4eaffb6eb240b23940e7268a6bb1a574b,Stefan Vigerske <svigerske@gams.com>,1498818044,"free order_ in ma86 interface, see also #283
+
+svn-id: 2700 @trunk
+"
+before,coin-or_ipopt,fa4161f4fa0e07aa2a7ddbc6de5813752ce35a8a,subgit <support@subgit.com>,1498818046,
+after,coin-or_ipopt,ba1e4169d5a274d2eb4fd3252eb097cc96f731ad,Paul Scott <paul.m.sco@gmail.com>,1510718185,"Resetting CPU start time on reoptimize of IpoptApplication
+"
+after,coin-or_ipopt,e17d38c6727809f15458d09de029522bb3480470,paul-scott <paul-scott@users.noreply.github.com>,1510718870,"Merge ba1e4169d5a274d2eb4fd3252eb097cc96f731ad into 1d247b6b9d156edb3620d5807a160b7092aedd90
+"
+after,coin-or_ipopt,70c3c92b75c81bab4291e8316fc05d31e24a96e5,Stefan Vigerske <svigerske@gams.com>,1510841791,"reset cpu_time at beginning of call_optimize instead of initialize
+
+- by paul-scott, see pull request 12 on github/ipopt
+- additionally, assert that IpIpoptData::cpu_time_start() is only
+  called after optimization has been started
+"
+after,coin-or_ipopt,ce2ad3446e423aabcd309adcd752a17d2bbae050,Stefan Vigerske <svigerske@gams.com>,1510841791,"reset cpu_time at beginning of call_optimize instead of initialize
+
+- by paul-scott, see pull request 12 on github/ipopt
+- additionally, assert that IpIpoptData::cpu_time_start() is only
+  called after optimization has been started
+
+
+svn-id: 2702 @trunk
+"
+after,coin-or_ipopt,91b8dbfbc895178d00187508251fc499156e1f69,subgit <support@subgit.com>,1510841793,
+after,coin-or_ipopt,6cb887a7ca1857908dc6152b736ae02588d52ace,Stefan Vigerske <svigerske@gams.com>,1515988340,"replace assert by DBG_ASSERT
+
+- fixes #14 on gitlab
+- by ghackebeil
+
+
+svn-id: 2703 @trunk
+"
+after,coin-or_ipopt,ba48d7803d10782aaf638040cd693245a0896bd1,Stefan Vigerske <svigerske@gams.com>,1515988340,"replace assert by DBG_ASSERT
+
+- fixes #14 on gitlab
+- by ghackebeil
+"
+after,coin-or_ipopt,2a6201de2f296803314a9ab9cedcd21f95a35bc3,subgit <support@subgit.com>,1515988342,
+after,coin-or_ipopt,2aefbbd21c328bdd203016ea1d22ff37738daa54,Stefan Vigerske <svigerske@gams.com>,1515989092,"fix sign in Jacobian finite difference approx (by E. Bertolazzi)
+"
+after,coin-or_ipopt,0569a65488b66028bf8129b35c38dd46be945d70,Stefan Vigerske <svigerske@gams.com>,1515989092,"fix sign in Jacobian finite difference approx (by E. Bertolazzi)
+
+
+svn-id: 2704 @trunk
+"
+before,corybrunson_ggalluvial,fa70e31a876abf609a40bc5ec7004934a735b97d,Jason Cory Brunson <jason.brunson@medicine.ufl.edu>,1675959935,"standardize distill functions + don't import from dplyr
+"
+before,corybrunson_ggalluvial,040b0dfef03c9ce210ba3384fce047d3d6339e8d,Jason Cory Brunson <jason.brunson@medicine.ufl.edu>,1675969785,"bump version
+"
+before,corybrunson_ggalluvial,88e1493cb7b01b65738a5e4ef6399c4660bf9b41,Jason Cory Brunson <jason.brunson@medicine.ufl.edu>,1676302638,"update cran comments + add comment about timing
+"
+before,corybrunson_ggalluvial,1858f5bc11b761fbcbf6e6f66413288e4bbf5087,Jason Cory Brunson <jason.brunson@medicine.ufl.edu>,1676302988,"update news for v0.12.5
+"
+before,corybrunson_ggalluvial,a4199462366267edabf272e60a4f423eec94ed40,Jason Cory Brunson <cornelioid@gmail.com>,1688503858,"mention alpha default + link to aesthetics vignette - fixes #112
+"
+before,corybrunson_ggalluvial,910ceecc39c00c452442ac7603fcc51ee04f6f0c,Jason Cory Brunson <cornelioid@gmail.com>,1688903035,"change grob names + build outline.type param into alluvium geom - cf #104
+"
+before,corybrunson_ggalluvial,106072d35889611719cbd9bba4d5fee3af1f7fd4,Jason Cory Brunson <cornelioid@gmail.com>,1688916204,"extend outline.type to flow geom + update documentation - fixes #104
+"
+before,corybrunson_ggalluvial,69ab8a47c4b3e5f0567dc2ac37c188ae55bb034e,Jason Cory Brunson <cornelioid@gmail.com>,1688929090,"rm context from  testthat tests + review vdiffr snapshots
+"
+before,corybrunson_ggalluvial,b6d4c84a562885eeaddaddb55b95d69a6892326c,Jason Cory Brunson <cornelioid@gmail.com>,1688929530,"describe outline type param in news + use outline type param in vignette
+"
+before,corybrunson_ggalluvial,0b71a4d3e5de93a9db2a9c7491424c43d21f3449,Jason Cory Brunson <cornelioid@gmail.com>,1688930289,"add footnote to ensure that alluvial layer params agree
+"
+after,corybrunson_ggalluvial,fe345bf7330288fbc2fde83798149ba214967099,Michael Chirico <chiricom@google.com>,1718640405,typo
+after,corybrunson_ggalluvial,58bbdc4998fcc82c11d6c2347b15d79881001b26,Michael Chirico <michaelchirico4@gmail.com>,1718640616,Optionally skip tests when 'alluvial' is not installed
+after,corybrunson_ggalluvial,5b42a5188fa759ce5ff95ad3c453828233afeafb,Cory Brunson <cornelioid@gmail.com>,1718641600,"Merge pull request #130 from MichaelChirico/patch-1
+
+typo (involivng->involving)"
+after,corybrunson_ggalluvial,ecf582c093b4140839ba87f86e58917226d6891b,Cory Brunson <cornelioid@gmail.com>,1723294658,"Merge pull request #131 from MichaelChirico/sugg-alluvial
+
+Optionally skip tests when Suggests dep 'alluvial' is not installed"
+after,corybrunson_ggalluvial,64f66302a2f2499836d9d1d33e4aa4e387eb8897,Jason Cory Brunson <jason.brunson@medicine.ufl.edu>,1723295404,"explain test conditional in news + update one visual regression test
+"
+after,corybrunson_ggalluvial,c4fdce9d09fb1724f59251f12c052da45e9b7def,Jason Cory Brunson <cornelioid@gmail.com>,1734102217,"restore discerned stratum values & condition dependent examples on requirements
+"
+after,corybrunson_ggalluvial,686b7bd39ed2bb8af200c114ed3ac45b10a97ab6,Jason Cory Brunson <cornelioid@gmail.com>,1749731734,"set pkgdown template to bootstrap 5
+"
+after,corybrunson_ggalluvial,ba04d89701135c48c8e899de2a49e7f816b1f205,Jason Cory Brunson <cornelioid@gmail.com>,1753988204,"debug cumulate + add test + update news - fix #146
+"
+after,corybrunson_ggalluvial,fdfcca9aa8faccb09202bcb292c7c976a9ae9838,Jason Cory Brunson <jason.brunson@medicine.ufl.edu>,1757694792,"replace aesthetic templates with new aesthetics roxygen2 tag
+"
+after,corybrunson_ggalluvial,89edb03dca619800cac5642aa1c856dfda47c2d7,Cory Brunson <cornelioid@gmail.com>,1757694947,"Merge fdfcca9aa8faccb09202bcb292c7c976a9ae9838 into ba04d89701135c48c8e899de2a49e7f816b1f205
+"
+before,google-research_torchsde,b31825280e50293bce327ae6d89a7b7e4f5bfce1,Zymrael <mic.poli@hotmail.it>,1626756483,"adnewline
+"
+before,google-research_torchsde,e0c651e452056cac26237eef201cbb28c9990ecc,Patrick Kidger <33688385+patrick-kidger@users.noreply.github.com>,1626765173,"tweaks for PyPI release
+"
+before,google-research_torchsde,c6cd91c270a5ae269a994aad7aa03e88ae82a6e1,Patrick Kidger <33688385+patrick-kidger@users.noreply.github.com>,1626873726,"fix content type
+"
+before,google-research_torchsde,cf8f9cb8d3d61d90ce1576400f568c1630cfcf8c,Patrick Kidger <33688385+patrick-kidger@users.noreply.github.com>,1626992504,"Tweaks for PyPI release (#101)
+
+* tweaks for PyPI release
+
+* fix content type"
+before,google-research_torchsde,f522c9d0ee6be7fca57f44cbd9d028ec8e52ffc8,Patrick Kidger <33688385+patrick-kidger@users.noreply.github.com>,1626993580,"flake8 fixes
+"
+before,google-research_torchsde,9b69ced7d995cec22c9510ff2a2483a4e5a3e10d,Patrick Kidger <33688385+patrick-kidger@users.noreply.github.com>,1626994123,"updated test workflow
+"
+before,google-research_torchsde,ddf3a82c107bbbf13080c3b323de53af7830277d,Patrick Kidger <33688385+patrick-kidger@users.noreply.github.com>,1626994931,"added publishing workflow
+"
+before,google-research_torchsde,3503e9000ced10bbcd974f5ef698a4251fc45228,Patrick Kidger <33688385+patrick-kidger@users.noreply.github.com>,1627307957,"flake8 fixes (#102)
+
+"
+before,google-research_torchsde,53038a3efcd77f6c9f3cfd0310700a59be5d5d2d,Patrick Kidger <33688385+patrick-kidger@users.noreply.github.com>,1627307978,"Updated test workflow (#103)
+
+* flake8 fixes
+
+* updated test workflow"
+before,google-research_torchsde,6994cc617461884d86dbfb78f3b20464bb8de90a,Patrick Kidger <33688385+patrick-kidger@users.noreply.github.com>,1627308338,"Merge ddf3a82c107bbbf13080c3b323de53af7830277d into 53038a3efcd77f6c9f3cfd0310700a59be5d5d2d
+"
+after,google-research_torchsde,5dd108717ca018ecbc812fb6ebf3b29b11b08921,NripeshN <nn2012@hw.ac.uk>,1688803622,"Add GPU Acceleration Apple Silicon Macs(""mps"")
+"
+after,google-research_torchsde,0c1179044c3f0388a1f0c9c04d2b2d956f64f823,Sangjoon Han <jphan32@me.com>,1690378831,"Fix incorrectly formatted version rules
+"
+after,google-research_torchsde,eafe973e5e0e2502c7c5a0432da488459c271170,Sangjoon Han <jphan32@me.com>,1690441900,"Fix incorrectly formatted version rules #132
+"
+after,google-research_torchsde,4d208c5afdab15d08403e1fae4d7d790762e0720,Sangjoon Han <jphan32@me.com>,1690442227,"Merge branch 'metadata'
+"
+after,google-research_torchsde,ec67c51331e2520aa366d850c75ca2b99a6a0c6a,Sangjoon Han <jphan32@me.com>,1691301006,"Fix incorrectly formatted version rule
+"
+after,google-research_torchsde,bfd48554ff606d9b5f8c90cc4a8f2768c68606d2,Sangjoon Han <jphan32@me.com>,1692048627,"Fix incorrectly formatted version rules (#133)
+
+* Fix incorrectly formatted version rules #132
+
+* Fix incorrectly formatted version rule"
+after,google-research_torchsde,8569cecbf4ef9042d960cc9db613406683b29514,Xuechen Li <12689993+lxuechen@users.noreply.github.com>,1692048889,"fix name and email.
+"
+after,google-research_torchsde,efa291a63f59cef3c4622a91a66afc7d702a2b01,Xuechen Li <12689993+lxuechen@users.noreply.github.com>,1692099205,"fix name and email. (#135)
+
+"
+after,google-research_torchsde,e28c064fd3da1bd0fc25e9d76ce6825a576c45b0,Vladimir Mandic <mandic00@live.com>,1693335367,bump version number
+after,google-research_torchsde,59a561deda8f3b0eb01bc6f9d6f4a2344ba541b8,Aarni Koskela <akx@iki.fi>,1695748512,"Drop support for Pythons older than 3.8
+"
+before,maximecb_gym-minigrid,b28ace1c06a9699360b82d500640c879eb123b04,pseudo-rnd-thoughts <mark.m.towers@gmail.com>,1736771908,"Deploying to gh-pages from @ Farama-Foundation/Minigrid@939ae21d30f34e84f7d3cc65e129c50f4bc151e0 🚀
+"
+before,maximecb_gym-minigrid,8710e91d2325b5e5e1ce75dae5567fd816298ca7,Samuel Bubán <43829749+Mahrkeenerh@users.noreply.github.com>,1736771933,"Add scaling for PositionBonus (#433)
+
+Co-authored-by: Mark Towers <mark.m.towers@gmail.com>"
+before,maximecb_gym-minigrid,f314edb15d118b91add30ca0301b08bd3d0edac3,pseudo-rnd-thoughts <mark.m.towers@gmail.com>,1736771945,"Deploying to gh-pages from @ Farama-Foundation/Minigrid@4986bf587ea1eb6577a5e19fe8da3a526c4f0268 🚀
+"
+before,maximecb_gym-minigrid,bd39760910ad1200650b5c2e4df5ded9436b29b1,pseudo-rnd-thoughts <mark.m.towers@gmail.com>,1736771989,"Deploying to gh-pages from @ Farama-Foundation/Minigrid@8710e91d2325b5e5e1ce75dae5567fd816298ca7 🚀
+"
+before,maximecb_gym-minigrid,90b7678247cc00ea0444e9767c4eda86dc6e341e,Pascal Tuan <pascaltuan@gmail.com>,1738262792,"Update publications.md
+
+Add one paper from NeurIPS 2023"
+before,maximecb_gym-minigrid,225e7c229da072e8e6835d560b8ecb65cca2bcf9,Pascal Tuan <pascaltuan@gmail.com>,1738264825,"Update publications.md (#470)
+
+"
+before,maximecb_gym-minigrid,052f97fad7e7025fcc280904965d30660b80f16d,pseudo-rnd-thoughts <mark.m.towers@gmail.com>,1738264892,"Deploying to gh-pages from @ Farama-Foundation/Minigrid@225e7c229da072e8e6835d560b8ecb65cca2bcf9 🚀
+"
+before,maximecb_gym-minigrid,0caf8b82b54d1bc5606f39a21fede93b8a178f39,Alain Andres Fernandez <aklein1995@gmail.com>,1738850131,Update publications.md
+before,maximecb_gym-minigrid,6e713afef8d23d5280ebf28fb3fcf635d40d6a7f,Alain Andres Fernandez <aklein1995@gmail.com>,1738859475,"Update publications.md (#472)
+
+"
+before,maximecb_gym-minigrid,91a5b48232606a9f4096dd8f1082b85a23eec7cc,pseudo-rnd-thoughts <mark.m.towers@gmail.com>,1738859540,"Deploying to gh-pages from @ Farama-Foundation/Minigrid@6e713afef8d23d5280ebf28fb3fcf635d40d6a7f 🚀
+"
+after,maximecb_gym-minigrid,668cda070b6f0e224de6151c69359ccec1e3dabe,Karan Muvvala <Karan.Muvvala@colorado.edu>,1749772743,"Update publications.md
+
+Added my IJCAI 2025 main track paper"
+after,maximecb_gym-minigrid,72d29c82273808fecca96bf2a89915dd54a79631,Karan Muvvala <Karan.Muvvala@colorado.edu>,1750238941,"Update publications.md (#476)
+
+"
+after,maximecb_gym-minigrid,ed14b855a9326c10ab5c93859471d1f9ba56c536,pseudo-rnd-thoughts <mark.m.towers@gmail.com>,1750238996,"Deploying to gh-pages from @ Farama-Foundation/Minigrid@72d29c82273808fecca96bf2a89915dd54a79631 🚀
+"
+after,maximecb_gym-minigrid,81118c8cae1a228d9e0c384286d445d118ed6aca,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1754903235,"Bump actions/download-artifact from 4 to 5
+
+Bumps [actions/download-artifact](https://github.com/actions/download-artifact) from 4 to 5.
+- [Release notes](https://github.com/actions/download-artifact/releases)
+- [Commits](https://github.com/actions/download-artifact/compare/v4...v5)
+
+---
+updated-dependencies:
+- dependency-name: actions/download-artifact
+  dependency-version: '5'
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+after,maximecb_gym-minigrid,5462813b9016d6b81b53ba200000f8aa12ba3ba6,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1754929710,"Bump actions/download-artifact from 4 to 5 (#477)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>"
+after,maximecb_gym-minigrid,0af3f12482d465c024309b8dde46b3face6fea56,pseudo-rnd-thoughts <mark.m.towers@gmail.com>,1754929771,"Deploying to gh-pages from @ Farama-Foundation/Minigrid@5462813b9016d6b81b53ba200000f8aa12ba3ba6 🚀
+"
+after,maximecb_gym-minigrid,981c99e4a863f773e3d74677cc86baea1bf73f60,Omar Younis <42100908+younik@users.noreply.github.com>,1755077938,"Merge dcadc8a75f1de374bfe8e60bfbb4bbb9e456fcbc into 5462813b9016d6b81b53ba200000f8aa12ba3ba6
+"
+after,maximecb_gym-minigrid,417be3fdc35262ac886e82adca240e1517ae15d7,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1755510562,"Bump actions/checkout from 4 to 5
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 4 to 5.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v4...v5)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-version: '5'
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+after,maximecb_gym-minigrid,164659739d2003ae94c043603ce2756d17d039e6,dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>,1755510564,"Merge 417be3fdc35262ac886e82adca240e1517ae15d7 into 5462813b9016d6b81b53ba200000f8aa12ba3ba6
+"
+after,maximecb_gym-minigrid,677f3cec4d67b836e6eed73fc4bb2734943056aa,Navpreet Singh <navpreet_np@yahoo.com>,1755580654,"Merge 07bb76d0c8f5148da372f546c552248a08cefc34 into 5462813b9016d6b81b53ba200000f8aa12ba3ba6
+"
+before,ohdsi_patientlevelprediction,9d1559e5f181dd710cbf8a20e500d2070b67ac7d,jreps <jreps@its.jnj.com>,1559227228,"fixed conflict
+"
+before,ohdsi_patientlevelprediction,40c33137daa0f53f9fa9296d3f48166dd1b47abe,chandryou <applegna@gmail.com>,1559808800,"parallelisation of VAE in CIReNN by using multiple GPUs
+"
+before,ohdsi_patientlevelprediction,a9b573fd2b75e5e104123c858b1d6328632594bb,chandryou <applegna@gmail.com>,1559816932,"early Stopping in Deep Ensemble
+"
+before,ohdsi_patientlevelprediction,b622185ca191e07a871389ba113bdfd94817144a,chandryou <applegna@gmail.com>,1561711226,"adding Nan Stopper on VAE
+"
+before,ohdsi_patientlevelprediction,8da070c9e37d4c89b98e61258f45f062059558af,Peter Rijnbeek <p.rijnbeek@erasmusmc.nl>,1563979699,"added option to input trained models
+"
+before,ohdsi_patientlevelprediction,a5fecd65375a7c4780e57a9186dcc512c44c9193,jreps <jreps@its.jnj.com>,1565007024,"minor edits
+
+- fixed loginfo() bug in runMultiplePlp
+- added extra trace loggings
+"
+before,ohdsi_patientlevelprediction,f612c2ba0ed02473c7b318279b6226666d6f2c0c,chandryou <applegna@gmail.com>,1566895580,"adding Bayesian Drop Out layer to CIReNN
+"
+before,ohdsi_patientlevelprediction,9baf32cbed5049d950c000fa5b4feef520f4f9e6,chandryou <applegna@gmail.com>,1566956144,"add balanced weight module for the outcome weight in CIReNN
+"
+before,ohdsi_patientlevelprediction,10b95e122a78ce391ee83c0ca1efcd6f175d9a36,chandryou <applegna@gmail.com>,1566960914,"update the explanation of CIReNN arguments
+"
+before,ohdsi_patientlevelprediction,921b552bcc7e37043a12c0e82845356c7dcd1dd2,jreps <jreps@its.jnj.com>,1567171438,"Merge pull request #147 from ABMI/bayes
+
+Adding Bayes Drop-out layer to CIReNN and Adding GPU module for RNN"
+after,ohdsi_patientlevelprediction,53d94f2be4fac4703b1d490d3c0a2a81384187b8,Peter Rijnbeek <p.rijnbeek@erasmusmc.nl>,1571990153,"removed merge conflicts and added
+
+Merge branch 'master' into ensembleTraining
+
+# Conflicts:
+#	R/Ensemble.R
+"
+after,ohdsi_patientlevelprediction,ee7bb2fbb46fc48a00db4b92190c4b72b028eac8,Peter Rijnbeek <p.rijnbeek@erasmusmc.nl>,1571990290,"white space removal
+"
+after,ohdsi_patientlevelprediction,5a3712d86d4228326685b66eee1469df2fa6fb79,spfohl <spfohl@stanford.edu>,1572551254,"Replacement for personSplitter that splits on subjectId, not rowId.
+"
+after,ohdsi_patientlevelprediction,58c9422d653c2c5ddc9e258f1548b5cfaf8cbe50,spfohl <spfohl@stanford.edu>,1572618467,"Require the number of leftover patients to be nonnegative
+"
+after,ohdsi_patientlevelprediction,f849afee203752368c85bfb0b00e10c6c33f2ae0,jreps <jreps@its.jnj.com>,1572891546,"splitting and python casting
+
+- added subject split and renamed person split to random split (kept
+backwards compatibility with person split)
+- cast indexes to integer in python code to hopefully fix bug
+"
+after,ohdsi_patientlevelprediction,30cbef47049ccc4127c9270e88364b8cbd3f4eba,jreps <jreps@its.jnj.com>,1572891999,"Merge branch 'master' of https://github.com/OHDSI/PatientLevelPrediction
+"
+after,ohdsi_patientlevelprediction,00cdcac0af3457e81df0ad2812c90900e17b71ca,jreps <jreps@its.jnj.com>,1572895315,"cast random forest include to int
+
+cast random forest include to int
+"
+after,ohdsi_patientlevelprediction,12caf4f2b60d73e3fd4ad8ae738211804125bae3,jreps <jreps@its.jnj.com>,1572895648,"updated earlier include cast
+
+updated earlier include cast
+"
+after,ohdsi_patientlevelprediction,0b59c97a53ab4c6aaf6236048d5bcc9363c2716e,schuemie <schuemie@ohdsi.org>,1573026404,"Fixes R crashes when computing AUC for large populations by using long int indices for arrays, and by not placing arrays on the stack.
+"
+after,ohdsi_patientlevelprediction,eaf330977f51ec49bcb0ebd312c0c1652625cd09,jreps <jreps@its.jnj.com>,1573138061,"Merge pull request #154 from schuemie/master
+
+Fixes R crashes when computing AUC for large populations by using lon…"
+before,seung-lab_cloud-volume,566d95994a9e5f543508d829c9e0779426fdfaae,William Silversmith <william.silversmith@gmail.com>,1627591391,"fix(graphene/mesh): default mesh.get to use_byte_offsets=True
+
+This forces the graph server to use verify=True and efficiently
+uses the output.
+"
+before,seung-lab_cloud-volume,fc4a3944bfd7cddf195f5dfd036e69a5c7005d95,William Silversmith <william.silversmith@gmail.com>,1627600849,"feat: cache graphene manifests
+
+Some options exclude caching.
+"
+before,seung-lab_cloud-volume,0e2a9564b3bf5e796fe668684a84b172facd1446,William Silversmith <william.silversmith@gmail.com>,1628544573,"feat: cache graphene manifests (#496)
+
+Some options exclude caching."
+before,seung-lab_cloud-volume,f4a90b776faf2fd67b8e5dd89cd0cc9a88136bfa,William Silversmith <william.silversmith@gmail.com>,1628546089,"feat: support background_color for sharded image download
+"
+before,seung-lab_cloud-volume,a300c993f3c3eb3ea67c4a7fb40b67d6e715c8b2,William Silversmith <william.silversmith@gmail.com>,1628564518,"Version 5.2.0
+"
+before,seung-lab_cloud-volume,4bba8237daedc7a9196b66ada487d1d09e44c017,William Silversmith <william.silversmith@gmail.com>,1628704541,"experiment: http2
+"
+before,seung-lab_cloud-volume,cc391b96543b4f02084c18ba9b7fe5ece601ba01,Chris Roat <1053153+chrisroat@users.noreply.github.com>,1629325770,"Fix and improve testing
+- Appropriate check_meta/check_type (fixes some breakages due to different underlying chunk types)
+- Use random integers for arrays instead of all zeros
+"
+before,seung-lab_cloud-volume,9631fa782c3f3896d9f542b0c8e6f1905caab320,Chris Roat <1053153+chrisroat@users.noreply.github.com>,1629325840,"Do not delay creation of metadata when using dask
+
+I originally made this change before I understood the dask ecosystem, and I was desiring to have many volumes'  created in parallel across many workers.
+
+For other output formats (parquet, zarr, etc), the metadata is written at graph creation time, not delayed to run time.  So this change modifies the behavior to be consistent with the rest of the ecosystem.
+"
+before,seung-lab_cloud-volume,56adcd2f307e66e73e60a647d3db141b3859a1cf,Chris Roat <1053153+chrisroat@users.noreply.github.com>,1629334430,"Revert delay of creation of metadata when using dask (#498)
+
+* Fix and improve testing
+- Appropriate check_meta/check_type (fixes some breakages due to different underlying chunk types)
+- Use random integers for arrays instead of all zeros
+
+* Do not delay creation of metadata when using dask
+
+I originally made this change before I understood the dask ecosystem, and I was desiring to have many volumes'  created in parallel across many workers.
+
+For other output formats (parquet, zarr, etc), the metadata is written at graph creation time, not delayed to run time.  So this change modifies the behavior to be consistent with the rest of the ecosystem."
+before,seung-lab_cloud-volume,4ffeb99a6376123c6e0e2a13ffcf8aec4ac140bb,William Silversmith <william.silversmith@gmail.com>,1629398572,"Version 5.3.0
+"
+after,seung-lab_cloud-volume,aac38f30d340f1bde6765f56b77229ff099dba98,Forrest Collman <forrest.collman@gmail.com>,1633098610,"pinning jsonschema<4.0
+"
+after,seung-lab_cloud-volume,de0ff921726f6e87b29767d139fccaaa1042d1e7,Sven Dorkenwald <9481250+sdorkenw@users.noreply.github.com>,1633100027,"Merge pull request #502 from seung-lab/jsonschema_pin
+
+pinning jsonschema<4.0"
+after,seung-lab_cloud-volume,86aa0746a315c0d0aa47335dd0622ac3c515c4a3,William Silversmith <william.silversmith@gmail.com>,1633100211,"refactor: alphabetical order for requirements.txt
+"
+after,seung-lab_cloud-volume,e3de12bc232d77787b4d0204102653f5e504409a,William Silversmith <william.silversmith@gmail.com>,1633100359,"Version 5.3.1
+"
+after,seung-lab_cloud-volume,bf919504d7c4e7f4c807eab7ec65be17503a21dd,William Silversmith <william.silversmith@gmail.com>,1634349637,"BREAKING: refactor(MultiLevelPrecomputedMeshManifest): add writing
+
+Can now read and write the binary format.
+"
+after,seung-lab_cloud-volume,865817f5999f40211553fcbd6e438dbbba83c64f,William Silversmith <william.silversmith@gmail.com>,1634351181,"fix: syntax error
+"
+after,seung-lab_cloud-volume,e4b0ac0cb8cdc1c5e2d8e21adf211c227afea627,William Silversmith <william.silversmith@gmail.com>,1634584840,"refactor: remove print function import (py2 EOL)
+"
+after,seung-lab_cloud-volume,e94ecc841c54c0812d18312d64a648dcb16b1e37,William Silversmith <william.silversmith@gmail.com>,1634610751,"feat: add spatial_index_db to CV top level and type annotations
+"
+after,seung-lab_cloud-volume,0d8a147e64696ad3867e50cf03fc59d4cfc34251,William Silversmith <william.silversmith@gmail.com>,1634610784,"fix: some minor bugs caught by types
+"
+after,seung-lab_cloud-volume,eb4d6d46a82f50efa234d3337c96ad66864054ee,William Silversmith <william.silversmith@gmail.com>,1634610801,"wip: add mysql support to SpatialIndex
+"
+before,snowleopard_alga,bb0515dc3118af69df0bf5109a5393d916ab6027,Andrey Mokhov <andrey.mokhov@gmail.com>,1679476157,"Update version bounds
+"
+before,snowleopard_alga,c219509d5194f73f9b82bbbbee0813a31278f1ef,Andrey Mokhov <andrey.mokhov@gmail.com>,1679476163,"Add TypeOperators
+"
+before,snowleopard_alga,1980ae551addb1a2fddef4e75adc5fdcf6aa65c8,Andrey Mokhov <andrey.mokhov@gmail.com>,1679480121,"Fix imports
+"
+before,snowleopard_alga,c61ae3f6a2c4c4bb98010904e9990d034b19dadd,Andrey Mokhov <andrey.mokhov@gmail.com>,1679480506,"Update changelog
+"
+before,snowleopard_alga,50397ef46bd2167a8f0a5055cef6f311acf0838e,Andrey Mokhov <andrey.mokhov@gmail.com>,1679481294,"Support GHC 9.2.7, 9.4.4 and 9.6.1 (#305)
+
+* Start testing with GHC 9.2.7, 9.4.4 and 9.6.1
+
+* Update version bounds
+
+* Add TypeOperators
+
+* Fix imports
+
+* Update changelog"
+before,snowleopard_alga,fa95c4383332b3d2ce5ea865d93746e73fb9ef48,Andrey Mokhov <andrey.mokhov@gmail.com>,1680446620,"Fix status badge
+"
+before,snowleopard_alga,ddc547b30be3b3fb0795590d6bcc5a06dd6ba7e5,Andrey Mokhov <andrey.mokhov@gmail.com>,1680449672,"Stop testing on MacOS
+"
+before,snowleopard_alga,a0170a4188ee67a761a5f4b5942cdb8964060bc0,Andrey Mokhov <andrey.mokhov@gmail.com>,1680451435,"Stop testing on MacOS
+"
+before,snowleopard_alga,fcadd7ffad10b24f69d62fa62f82c2277611069f,Andrey Mokhov <andrey.mokhov@gmail.com>,1680451435,"Fix status badge
+"
+before,snowleopard_alga,a08c9091c45bca390ac7f780e7872841da847cdd,Daniel <daniel@luminouscomputing.com>,1682267174,"Use Semigroup constraint for LAM instead of Monoid
+"
+after,snowleopard_alga,d0c21648d12fe31860b7f8aede298e3298aff8ce,Erik de Castro Lopo <erikd@mega-nerd.com>,1698885426,"Update deepseq dependency
+"
+after,snowleopard_alga,aee5fa79a1ce53861c9a9bb770309dbf68a1bc9a,Erik de Castro Lopo <erikd@mega-nerd.com>,1699056039,"Update deepseq dependency
+"
+after,snowleopard_alga,2da69b084a88e3a0eaaa53ce5167013b6a94627c,Adithya Kumar <adithya@composewell.com>,1699266702,"Merge bbdf26e62825ab9ef27636ac4cffa712bdbcfb7b into aee5fa79a1ce53861c9a9bb770309dbf68a1bc9a
+"
+after,snowleopard_alga,bd7fe6880600d1604333406aa66a61c68e887b63,Jonathan Dowland <63694+jmtd@users.noreply.github.com>,1699266702,"Merge ab89e0cfddf77a7c93587255c31a411be0322aa9 into aee5fa79a1ce53861c9a9bb770309dbf68a1bc9a
+"
+after,snowleopard_alga,b3ee9e0e655f26e5bbe989b7f5ade08322ae6739,Mateo Torres-Ruiz <mateoatr@users.noreply.github.com>,1699266702,"Merge 75b8001e18ce709c161cd44d7a08add56a29d642 into aee5fa79a1ce53861c9a9bb770309dbf68a1bc9a
+"
+after,snowleopard_alga,71761e9e282eeed67c3c674101cbf91207d1ee63,Daniel Winograd-Cort <dwincort@gmail.com>,1699266702,"Merge a08c9091c45bca390ac7f780e7872841da847cdd into aee5fa79a1ce53861c9a9bb770309dbf68a1bc9a
+"
+after,snowleopard_alga,ab1af6ca12fcf96c0861c6201ae72839f432524a,Ian <subttle@users.noreply.github.com>,1699266702,"Merge ecc7e493306fcd0570d4b94b95bc089f1a65b6b9 into aee5fa79a1ce53861c9a9bb770309dbf68a1bc9a
+"
+after,snowleopard_alga,450e748c18bf8ad8c80a4c3389d7fe65918e5795,Sandy Maguire <sandy@sandymaguire.me>,1708371506,"Track preSet for labelled adjmaps
+"
+after,snowleopard_alga,23ddbd07f31a796442e3bbd5948b2fd02c97e341,Sandy Maguire <sandy@sandymaguire.me>,1708371947,"Merge 450e748c18bf8ad8c80a4c3389d7fe65918e5795 into aee5fa79a1ce53861c9a9bb770309dbf68a1bc9a
+"
+after,snowleopard_alga,987915ad778a0da780d473962b5763c52975f688,Andrey Mokhov <andrey.mokhov@gmail.com>,1716111217,"Bump year
+"
+before,stvir_pysot,78c52d1f0777c9febefe5a05bbc2861cf1eb725b,Zhiyuan Chen <this@zyc.ai>,1593325944,"Merge 86950b70941e88701a9d9a151eb579141067cece into 2bab97fbc39335f45332f397288a9e6f13f79d46
+"
+before,stvir_pysot,f6ac48de74d9a84bc7e267ff6a6d6f3239bdc38b,Vishi Nehra <vishinehra@Vishis-MacBook.local>,1603081802,"Fixed handling relative paths #294
+"
+before,stvir_pysot,2f98bfb6f7b56e4a4263c7024a3a3a7143d630ac,boli <436101042@qq.com>,1606213350,Update README.md
+before,stvir_pysot,45b9482b0adf3c19fdcc42d6f520cac7ad395b2b,VishiNehra <47043774+VishiNehra@users.noreply.github.com>,1606893155,"Merge f6ac48de74d9a84bc7e267ff6a6d6f3239bdc38b into 2f98bfb6f7b56e4a4263c7024a3a3a7143d630ac
+"
+before,stvir_pysot,dad0e8670e54ea13fdd35950f5d7ef5515009e64,Zhiyuan Chen <this@zyc.ai>,1613732866,fixes #464
+before,stvir_pysot,61c6700ba3ecdb636299d06364a85b15610db5c6,Zhiyuan Chen <this@zyc.ai>,1613732873,"Merge dad0e8670e54ea13fdd35950f5d7ef5515009e64 into 2f98bfb6f7b56e4a4263c7024a3a3a7143d630ac
+"
+before,stvir_pysot,9b07c521fd370ba38d35f35f76b275156564a681,Zhiyuan Chen <this@zyc.ai>,1615295268,"Merge pull request #459 from VishiNehra/fix-294
+
+Fixed handling relative paths #294"
+before,stvir_pysot,e167c4572165ed06d5cb5bc1a27d66408a0bd12c,Zhiyuan Chen <this@zyc.ai>,1615295278,"Merge dad0e8670e54ea13fdd35950f5d7ef5515009e64 into 9b07c521fd370ba38d35f35f76b275156564a681
+"
+before,stvir_pysot,78fc5f9c078e18dc312b398bdb020029f1f48dd9,Zhiyuan Chen <this@zyc.ai>,1616576496,fixes #283
+before,stvir_pysot,dc1eb3389eafd328e7d4073baed6c72b6dbdd9bc,Zhiyuan Chen <this@zyc.ai>,1616576515,"Merge 78fc5f9c078e18dc312b398bdb020029f1f48dd9 into 9b07c521fd370ba38d35f35f76b275156564a681
+"
+after,stvir_pysot,c0b85fa8e8b936d083e78ecbaba6b1ab9a83e055,Aryan Pandey <margiaryan@gmail.com>,1681450841,"Mentioned older version of numpy in INSTALL.md
+"
+after,stvir_pysot,7d87b5ef3ee387c20003fe6ddceb549257a2ed2d,Zhiyuan Chen <this@zyc.ai>,1681457053,"Merge pull request #591 from AryanPandeyy/issue-589
+
+Mentioned older version of numpy in INSTALL.md"
+after,stvir_pysot,a9b57b13952da603c3c70007cfb91905ea6906b6,Zhiyuan Chen <this@zyc.ai>,1681561061,"Merge dad0e8670e54ea13fdd35950f5d7ef5515009e64 into 7d87b5ef3ee387c20003fe6ddceb549257a2ed2d
+"
+after,stvir_pysot,7158530225c4df0143784915a1eeb490ad0f2e96,Zhiyuan Chen <this@zyc.ai>,1681564923,"Merge 78fc5f9c078e18dc312b398bdb020029f1f48dd9 into 7d87b5ef3ee387c20003fe6ddceb549257a2ed2d
+"
+after,stvir_pysot,355a63c983d2b9f6bf98ee910448337a8da482b6,CoderMungan <codermungan@gmail.com>,1699759486,"Fixed Issue STVIR#294
+"
+after,stvir_pysot,0505f8d463f1cd35e23b03b48afe11369fd1df96,Mehmet Halil MUNGAN <codermungan@gmail.com>,1699759693,"Merge 355a63c983d2b9f6bf98ee910448337a8da482b6 into 7d87b5ef3ee387c20003fe6ddceb549257a2ed2d
+"
+after,stvir_pysot,4323c7fb043d2de876b0944566c11ecc4592d795,Michaelzeyong <312577112@qq.com>,1742453202,"Fix error
+
+Fix error when use demo.py with this config.yaml and model.pth
+"
+after,stvir_pysot,d5998a1e2359f3baccdc5460f6929100ddc0213a,MinLee0210 <bastreet124@gmail.com>,1743640790,"first commit before refactoring
+"
+after,stvir_pysot,584f2d68662371ad22a3986641d50f5143bd6de3,MinLee0210 <bastreet124@gmail.com>,1743694114,"pending files
+"
+after,stvir_pysot,64983bb001fa7af0eac3cdd8073dc09a1be7b455,MinLee0210 <bastreet124@gmail.com>,1743698690,"dev
+"
+before,tidymodels_rsample,19a66bfcf518b2eaae209f8766b8b03f3775cf17,hfrick <hfrick@users.noreply.github.com>,1727269938,"Deploying to gh-pages from @ tidymodels/rsample@fe24aaa9f880960e5ef2829ffaa52439b0bf71b7 🚀
+"
+before,tidymodels_rsample,d9fcbfe81bf3c35c100f6c9fb5f57cd8868338fc,Hannah Frick <hannah@posit.co>,1727279743,"add tests on `prop` argument
+"
+before,tidymodels_rsample,92e653a5b444812ce77c917649acbc78b5809047,Hannah Frick <hannah@posit.co>,1727280890,"rework `check_prop()` and use it
+"
+before,tidymodels_rsample,bc6d8dea3cef286b803aed3966d4c4779d9a418e,Hannah Frick <hfrick@users.noreply.github.com>,1727343971,"Update tests/testthat/test-mc.R
+
+Co-authored-by: Simon P. Couch <simonpatrickcouch@gmail.com>"
+before,tidymodels_rsample,ca5c220bbb09aa6c9bfe82ffe0014e36a51201af,Hannah Frick <hannah@posit.co>,1727347229,"add snapshot
+"
+before,tidymodels_rsample,580a12f8211daea7191c62338a23fae297906bb5,Hannah Frick <hfrick@users.noreply.github.com>,1727350084,"Merge pull request #551 from tidymodels/check-prop
+
+Check `prop` argument"
+before,tidymodels_rsample,d9b594c77e23a62d88f3a2af981affed5a493e77,hfrick <hfrick@users.noreply.github.com>,1727350273,"Deploying to gh-pages from @ tidymodels/rsample@580a12f8211daea7191c62338a23fae297906bb5 🚀
+"
+before,tidymodels_rsample,7592d3e1a354c4b6e974e3777ad52ad9ab8aa675,Hannah Frick <hannah@posit.co>,1727420008,"switch to cli
+"
+before,tidymodels_rsample,f799dba0aa5d13c7f769ed35d5f5266dde42f42e,Hannah Frick <hfrick@users.noreply.github.com>,1727427789,"Merge pull request #552 from tidymodels/make_strata-warnings
+
+Switch to cli for `make_strata()`"
+before,tidymodels_rsample,46ed89588cd1664702b1112906269ecd6b2942f2,hfrick <hfrick@users.noreply.github.com>,1727428016,"Deploying to gh-pages from @ tidymodels/rsample@f799dba0aa5d13c7f769ed35d5f5266dde42f42e 🚀
+"
+after,tidymodels_rsample,be87662c8e38a2ff285b48554f485e6ebe3075d9,Hannah Frick <hannah@posit.co>,1741713207,"reduce emphasis on data frame
+"
+after,tidymodels_rsample,1b3031c3b42720a7502958efcf16e89158391a27,Hannah Frick <hannah@posit.co>,1741714531,"the test below checks for apparent bootstrap already
+"
+after,tidymodels_rsample,09428ea77e74c916fdb3d57bf35a5622898ef5bc,Hannah Frick <hfrick@users.noreply.github.com>,1741716155,"Merge pull request #559 from tidymodels:docs-int-functions
+
+Upkeep for `int_*()` functions"
+after,tidymodels_rsample,742277c4387fd4ab565441542f6e2204018952b3,hfrick <hfrick@users.noreply.github.com>,1741716535,"Deploying to gh-pages from @ tidymodels/rsample@09428ea77e74c916fdb3d57bf35a5622898ef5bc 🚀
+"
+after,tidymodels_rsample,0a9f0f0c8fc5c227a3346245043f02a3d09be325,Hannah Frick <hannah@posit.co>,1741718549,"add default method for better error message
+"
+after,tidymodels_rsample,d68e3a79ad37100d89107d7286c2ed91c2ec7312,Hannah Frick <hfrick@users.noreply.github.com>,1741719053,"Merge pull request #560 from tidymodels:int-default-method
+
+add default method for better error message"
+after,tidymodels_rsample,f0040d87dacb1fa55f3188165f86ba8f534c0269,hfrick <hfrick@users.noreply.github.com>,1741719266,"Deploying to gh-pages from @ tidymodels/rsample@d68e3a79ad37100d89107d7286c2ed91c2ec7312 🚀
+"
+after,tidymodels_rsample,ddc072189806f36f88940a4e2d436b4ad8c9688a,Hannah Frick <hannah@posit.co>,1741789970,"Moving along the deprecation of `validation_split()` and friends
+"
+after,tidymodels_rsample,9d99fc4463f2d6313df08f18b45df4402650edfa,Hannah Frick <hannah@posit.co>,1741789982,"Polish NEWS
+"
+after,tidymodels_rsample,62b96026de5ab20b39a3f5fb878c977258b19aec,Hannah Frick <hannah@posit.co>,1743604652,"update revdep checks
+"
